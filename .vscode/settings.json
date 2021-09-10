@@ -1,0 +1,28 @@
+{
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
+    "bracket-pair-colorizer-2.excludedLanguages": [
+    "javascript", "php", "react"
+    ],
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+
+    "borderColor : {color}",
+        // "borderStyle : solid",
+        // "borderWidth : 1px",
+        // "borderColor : {color}",
+        // "opacity: 0.5"
+    ],
+    "editor.tabCompletion": "on",
+    "bracketPairColorizer.activeScopeCSS": [
+    "borderColor : {color}"
+        // "borderStyle : solid",
+        // "borderWidth : 1px",
+        // "borderColor : {color}; opacity: 0.5"
+    ],
+    "bracketPairColorizer.forceIterationColorCycle": true,
+    "bracketPairColorizer.showBracketsInGutter": true,
+    "bracketPairColorizer.excludedLanguages": [
+    "php", "react", "javascript"
+    ],
+    "oneDarkPro.editorTheme": "oneDarkPro"
+}
